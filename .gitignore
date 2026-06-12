@@ -1,0 +1,8 @@
+# Don't commit ROM files - they belong to their respective developers
+*.gb
+*.gbc
+*.bin
+*.uf2
+
+# Don't commit SD card backup
+DC32_Badge_Backup/
